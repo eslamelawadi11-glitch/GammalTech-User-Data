@@ -1,4 +1,4 @@
-# Eslam Mohamed Sobhi | Intern at Gammal Tech
+# Eslam Mohamed Sobhi Gammal Tech
 Building scalable user data storage systems using Gammal Tech SDK.
 
 ---
